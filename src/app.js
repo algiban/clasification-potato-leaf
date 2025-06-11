@@ -1,7 +1,7 @@
 // Welcome alert
 function showAlert() {
   Swal.fire({
-    title: 'Selamat Datang di Hewani.id 😄',
+    title: 'Selamat Datang di Potato-leaf.id 😄',
     imageUrl: './asset/img-alert.gif',
     imageWidth: 200,
     imageHeight: 200,
